@@ -7,7 +7,7 @@ Workflow automation Opencode
 
 O download do WaOC pode ser feito executando o comando abaixo:
 ``` shell
-wget https://raw.githubusercontent.com/Tray-FrontEnd/WaOC/master/woac.sh
+wget https://raw.githubusercontent.com/WaOC/WaOC-Shell/master/waoc.sh
 ```
 
 ## Funções disponíveis
