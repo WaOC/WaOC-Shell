@@ -12,9 +12,9 @@ InstallOpencode () {
     sleep 1
     
     echo "Baixando os arquivos"
-    wget https://github.com/Tray-FrontEnd/WaOC/raw/master/files/opencode_theme-0.0.2.gem
-    wget https://raw.githubusercontent.com/Tray-FrontEnd/WaOC/master/files/gulpfile.js
-    wget https://raw.githubusercontent.com/Tray-FrontEnd/WaOC/master/files/package.json
+    wget https://github.com/WaOC/WaOC-CDN/raw/master/opencode_theme-0.0.2.gem
+    wget https://raw.githubusercontent.com/WaOC/WaOC-CDN/master/gulpfile.js
+    wget https://raw.githubusercontent.com/WaOC/WaOC-CDN/master/package.json
     
     echo "Instalando OpenCode"
     gem install opencode_theme-0.0.2.gem
