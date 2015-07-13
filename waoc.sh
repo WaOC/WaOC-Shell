@@ -12,12 +12,12 @@ InstallOpencode () {
     sleep 1
     
     echo "Baixando os arquivos"
-    wget https://github.com/WaOC/WaOC-CDN/raw/master/opencode_theme-0.0.3.gem
+    wget https://github.com/WaOC/WaOC-CDN/raw/master/opencode_theme-0.0.4.gem
     wget https://raw.githubusercontent.com/WaOC/WaOC-CDN/master/gulpfile.js
     wget https://raw.githubusercontent.com/WaOC/WaOC-CDN/master/package.json
     
     echo "Instalando OpenCode"
-    gem install opencode_theme-0.0.3.gem
+    gem install opencode_theme-0.0.4.gem
     
     echo "Instalando as dependências com NPM"
     npm install
