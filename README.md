@@ -1,4 +1,4 @@
-# WaOC
+# WaOC (DEPRECATED)
 Workflow automation Opencode
 
 --------
